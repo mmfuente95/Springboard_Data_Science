@@ -1,4 +1,4 @@
-# Welcome to Marcelo Fuentes' Github Repository
+# Welcome to Marcelo's Data Science (Springboard) Github Repository
 
 ## Personal Projects
 The "Personal Projects" folder has my personal portfolio of Machine Learning/Data Science Projects:
